@@ -1,42 +1,35 @@
 👋 Hi, I’m Ian! A Python Developer and future Data Scientist.
 👀 I’m interested in Machine Learning, Python Development, and Computer Vision stuff.
 
-## PROJECT LISTS
-### Machine Learning
-| Name | Description |
-|------|-------------|
-| Gradient Descent (Linear Regression) from Scratch | An implementation of gradient descent for linear regression from scratch. |
-| YouTube Video Analyzer | A simple YouTube video analyzer chrome extension that uses sentiment analysis. |
+## **PROJECT LISTS**
+| MACHINE LEARNING ||
+|--------|--------|
+| [Gradient Descent (Linear Regression) from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | An implementation of gradient descent for linear regression from scratch. |
+| [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A simple YouTube video analyzer chrome extension that uses sentiment analysis. |
 
-### Data Science
-| Name | Description |
-|------|-------------|
-| Average Precipitation Map | A 3D data visualization of average precipitation using R. |
-| SimpleCorr | A simple data correlation visualizer in Streamlit. |
+| DATA SCIENCE ||
+|--------|--------|
+| [Average Precipitation Map](https://github.com/ianjure/average-precipitation-map) | A 3D data visualization of average precipitation using R. |
+| [SimpleCorr](https://github.com/ianjure/simple-corr) | A simple data correlation visualizer in Streamlit. |
 
+| COMPUTER VISION ||
+|--------|--------|
+| [Blackjack Card Counter](https://github.com/ianjure/blackjack-card-counter) | A model made to beat blackjack using computer vision. |
+| [Rock Paper Scissor Game](https://github.com/ianjure/rock-paper-scissor-opencv) | Play against a computer in a rock-paper-scissor game using computer vision. |
+| [Virtual Mouse](https://github.com/ianjure/virtual-mouse-opencv) | Hand tracking virtual mouse using computer vision. |
+| [YOLOv5s Object Detection Web Application](https://github.com/ianjure/yolov5s-object-detection) | A simple object detection web application using YOLOV5s. |
 
-### Computer Vision
-| Name | Description |
-|------|-------------|
-| Blackjack Card Counter | A model made to beat blackjack using computer vision. |
-| Rock Paper Scissor Game | Play against a computer in a rock-paper-scissor game using computer vision. |
-| Virtual Mouse | Hand tracking virtual mouse using computer vision. |
-| YOLOv5s Object Detection Web Application | A simple object detection web application using YOLOV5s. |
-
-### Python Package
-| Name | Description |
-|------|-------------|
+| PYTHON PACKAGE ||
+|--------|--------|
 | Fancytest | A python package that tests function call instances using a simple decorator. |
 
-### Figma Plugin
-| Name | Description |
-|------|-------------|
+| FIGMA PLUGIN ||
+|--------|--------|
 | RealWeather Plugin | A Figma plugin for getting real-time weather data. |
 | IconGrid Plugin | A Figma plugin for generating icon grids. |
 
-### Other Stuff
-| Name | Description |
-|------|-------------|
+| OTHER STUFF ||
+|--------|--------|
 | Daily Top Stock (Twitter Bot) | A Twitter bot that posts daily top performing S&P 500 stocks. |
 | YouTube Video Downloader | A simple YouTube video downloader made using Flask and Pytube. |
 | YouTube Video Analyzer API | A simple Flask API for the YouTube video analyzer chrome extension. |
