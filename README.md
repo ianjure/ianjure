@@ -1,4 +1,4 @@
-👋 Hi, I’m Ian! A Python Developer and future Data Scientist.
+👋 Hi, I’m Ian! A Python Developer and an aspiring Data Scientist.
 👀 I’m interested in Machine Learning, Python Development, and Computer Vision stuff.
 
 ## **PROJECT LISTS**
@@ -21,19 +21,19 @@
 
 | PYTHON PACKAGE ||
 |--------|--------|
-| Fancytest | A python package that tests function call instances using a simple decorator. |
+| [Fancytest](https://github.com/ianjure/fancytest) | A python package that tests function call instances using a simple decorator. |
 
 | FIGMA PLUGIN ||
 |--------|--------|
-| RealWeather Plugin | A Figma plugin for getting real-time weather data. |
-| IconGrid Plugin | A Figma plugin for generating icon grids. |
+| [RealWeather Plugin](https://github.com/ianjure/realweather-plugin) | A Figma plugin for getting real-time weather data. |
+| [IconGrid Plugin](https://github.com/ianjure/icongrid-plugin) | A Figma plugin for generating icon grids. |
 
 | OTHER STUFF ||
 |--------|--------|
-| Daily Top Stock (Twitter Bot) | A Twitter bot that posts daily top performing S&P 500 stocks. |
-| YouTube Video Downloader | A simple YouTube video downloader made using Flask and Pytube. |
-| YouTube Video Analyzer API | A simple Flask API for the YouTube video analyzer chrome extension. |
-| Hotel Reservation System | A hotel reservation system made in Java. |
-| Weather Checker Web Application | A weather checker web application made using Streamlit, OpenWeather API, and Windy. |
-| Flask Website with Authentication | A simple Flask website with user authentication. |
-| Matrix Encryption | A simple web application for encrypting and decrypting messages using matrix multiplication. |
+| [Daily Top Stock (Twitter Bot)](https://github.com/ianjure/daily-top-stock) | A Twitter bot that posts daily top performing S&P 500 stocks. |
+| [YouTube Video Downloader](https://github.com/ianjure/youtube-video-downloader) | A simple YouTube video downloader made using Flask and Pytube. |
+| [YouTube Video Analyzer API](https://github.com/ianjure/youtube-video-analyzer-api) | A simple Flask API for the YouTube video analyzer chrome extension. |
+| [Hotel Reservation System](https://github.com/ianjure/hotel-reservation-system) | A hotel reservation system made in Java. |
+| [Weather Checker Web Application](https://github.com/ianjure/weather-checker) | A weather checker web application made using Streamlit, OpenWeather API, and Windy. |
+| [Flask Website with Authentication](https://github.com/ianjure/flask-with-authentication) | A simple Flask website with user authentication. |
+| [Matrix Encryption](https://github.com/ianjure/matrix-encryption) | A simple web application for encrypting and decrypting messages using matrix multiplication. |
