@@ -1,6 +1,6 @@
 👋 Hi, I’m Ian! A Python Developer and an aspiring Data Scientist.
 
-👀 I’m interested in Machine Learning, Python Development, and Computer Vision stuff.
+👀 I’m interested in Machine Learning, Deep Learning and Python Development.
 
 ## **Project Lists**
 | MACHINE LEARNING ||
