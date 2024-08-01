@@ -3,7 +3,7 @@
 👀 I’m interested in Machine Learning, Deep Learning and Python Development.
 
 # **Projects**
-| MACHINE LEARNING ||
+| MACHINE / DEEP LEARNING ||
 |---------|---------|
 | [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | An implementation of a simple neural network using only Numpy.
 | [Gradient Descent (Linear Regression) from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | An implementation of gradient descent for linear regression from scratch. |
