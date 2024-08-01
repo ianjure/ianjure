@@ -2,7 +2,7 @@
 
 👀 I’m interested in Machine Learning, Deep Learning and Python Development.
 
-## **Project Lists**
+## **Projects**
 | MACHINE LEARNING ||
 |---------|---------|
 | [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | An implementation of a simple neural network using only Numpy.
