@@ -30,7 +30,7 @@
 | [RealWeather Plugin](https://github.com/ianjure/realweather-plugin) | A Figma plugin for getting real-time weather data. |
 | [IconGrid Plugin](https://github.com/ianjure/icongrid-plugin) | A Figma plugin for generating icon grids. |
 
-|  OTHER STUFF  ||
+|  OTHER  ||
 |--------|-------|
 | [Daily Top Stock (Twitter Bot)](https://github.com/ianjure/daily-top-stock) | A Twitter bot that posts daily top performing S&P 500 stocks. |
 | [YouTube Video Downloader](https://github.com/ianjure/youtube-video-downloader) | A simple YouTube video downloader made using Flask and Pytube. |
