@@ -40,7 +40,7 @@
 | [Flask Website with Authentication](https://github.com/ianjure/flask-with-authentication) | A simple Flask website with user authentication. |
 | [Matrix Encryption](https://github.com/ianjure/matrix-encryption) | A simple web application for encrypting and decrypting messages using matrix multiplication. |
 
-## **Languages & Frameworks**
+## **Technologies**
 | PYTHON | JAVA | JAVASCRIPT | R |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55" height="55"/> |
