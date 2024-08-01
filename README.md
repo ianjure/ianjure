@@ -5,7 +5,7 @@
 ## **Project Lists**
 | MACHINE LEARNING ||
 |---------|---------|
-| [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | An implementation of a simple neural network using Numpy only.
+| [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | An implementation of a simple neural network using only Numpy.
 | [Gradient Descent (Linear Regression) from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | An implementation of gradient descent for linear regression from scratch. |
 | [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A simple YouTube video analyzer chrome extension that uses sentiment analysis. |
 
