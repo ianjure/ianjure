@@ -2,7 +2,7 @@
 
 👀 I’m interested in Machine Learning, Deep Learning and Python Development.
 
-## **Projects**
+# **Projects**
 | MACHINE LEARNING ||
 |---------|---------|
 | [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | An implementation of a simple neural network using only Numpy.
@@ -40,7 +40,7 @@
 | [Flask Website with Authentication](https://github.com/ianjure/flask-with-authentication) | A simple Flask website with user authentication. |
 | [Matrix Encryption](https://github.com/ianjure/matrix-encryption) | A simple web application for encrypting and decrypting messages using matrix multiplication. |
 
-## **Technologies**
+# **Technologies**
 | PYTHON | JAVA | JAVASCRIPT | R |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55" height="55"/> |
