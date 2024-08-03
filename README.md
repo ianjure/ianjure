@@ -23,7 +23,7 @@
 
 |  PYTHON PACKAGE  ||
 |---------|---------|
-| [Fancytest](https://github.com/ianjure/fancytest) | A python package that tests function call instances using a simple decorator. |
+| [Fancytest](https://github.com/ianjure/fancytest) | A Python package that tests function call instances using a simple decorator. |
 
 | FIGMA PLUGIN ||
 |-------|-------|
@@ -39,6 +39,7 @@
 | [Weather Checker Web Application](https://github.com/ianjure/weather-checker) | A weather checker web application made using Streamlit, OpenWeather API, and Windy. |
 | [Flask Website with Authentication](https://github.com/ianjure/flask-with-authentication) | A simple Flask website with user authentication. |
 | [Matrix Encryption](https://github.com/ianjure/matrix-encryption) | A simple web application for encrypting and decrypting messages using matrix multiplication. |
+| [Mini Python Scripts](https://github.com/ianjure/mini-scripts) | Short Python scripts that I made for automation and other stuffs.
 
 # **Technologies**
 | PYTHON | JAVA | JAVASCRIPT | R |
