@@ -2,7 +2,7 @@
 
 👀 I’m interested in Machine Learning, Deep Learning and Python Development.
 
-# **Projects**
+# **My Projects**
 | MACHINE / DEEP LEARNING ||
 |---------|---------|
 | [Credit Card Fraud Detection](https://github.com/ianjure/credit-card-fraud-detection) | Detecting fraudulent credit card transactions using machine learning.
@@ -42,7 +42,7 @@
 | [Matrix Encryption](https://github.com/ianjure/matrix-encryption) | A simple web application for encrypting and decrypting messages using matrix multiplication. |
 | [Mini Python Scripts](https://github.com/ianjure/mini-scripts) | Short Python scripts that I made for automation and other stuffs.
 
-# **Technologies**
+# **My Kit**
 | PYTHON | JAVA | JAVASCRIPT | R |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55" height="55"/> |
