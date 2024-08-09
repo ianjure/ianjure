@@ -10,7 +10,7 @@
 | [Gradient Descent from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | Implementing gradient descent for linear regression from scratch. |
 | [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A simple Chrome extension that analyzes YouTube video comments using sentiment analysis. |
 
-|   DATA SCIENCE   ||
+|   DATA VISUALIZATION   ||
 |---------|---------|
 | [Average Precipitation Map](https://github.com/ianjure/average-precipitation-map) | A 3D data visualization of average precipitation using R. |
 | [SimpleCorr](https://github.com/ianjure/simple-corr) | A simple data correlation visualizer in Streamlit. |
