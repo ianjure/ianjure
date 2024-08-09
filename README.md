@@ -5,6 +5,7 @@
 # **Projects**
 | MACHINE / DEEP LEARNING ||
 |---------|---------|
+| [Credit Card Fraud Detection](https://github.com/ianjure/credit-card-fraud-detection) | Detecting fraudulent credit card transactions using machine learning.
 | [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | An implementation of a simple neural network using only Numpy.
 | [Gradient Descent from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | An implementation of gradient descent for linear regression from scratch. |
 | [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A simple YouTube video analyzer chrome extension that uses sentiment analysis. |
