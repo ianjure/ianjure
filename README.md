@@ -3,7 +3,7 @@
 👀 I’m interested in Machine Learning, Deep Learning and Python Development.
 
 # **My Projects**
-| MACHINE / DEEP LEARNING ||
+| MACHINE & DEEP LEARNING ||
 |---------|---------|
 | [Credit Card Fraud Detection](https://github.com/ianjure/credit-card-fraud-detection) | Detecting fraudulent credit card transactions using machine learning.
 | [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | Implementing a simple neural network using only Numpy.
