@@ -34,7 +34,7 @@
 
 |  OTHER  ||
 |--------|-------|
-| [Daily Top Stock (Twitter Bot)](https://github.com/ianjure/daily-top-stock) | A Twitter bot that posts daily top performing S&P 500 stocks. |
+| [Daily Top Stock](https://github.com/ianjure/daily-top-stock) | A Twitter bot that posts daily top performing S&P 500 stocks. |
 | [YouTube Video Downloader](https://github.com/ianjure/youtube-video-downloader) | A simple YouTube video downloader made using Flask and Pytube. |
 | [YouTube Video Analyzer API](https://github.com/ianjure/youtube-video-analyzer-api) | A simple Flask API for the YouTube video analyzer Chrome extension. |
 | [Hotel Reservation System](https://github.com/ianjure/hotel-reservation-system) | A hotel reservation system made in Java. |
