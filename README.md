@@ -5,6 +5,7 @@
 # **My Projects**
 | MACHINE & DEEP LEARNING ||
 |---------|---------|
+| [Titanic Survivor Prediction](https://github.com/ianjure/titanic-survivor-prediction) | Predicting Titanic passengers survival using machine learning.
 | [Credit Card Fraud Detection](https://github.com/ianjure/credit-card-fraud-detection) | Detecting fraudulent credit card transactions using machine learning.
 | [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | Implementing a simple neural network using only Numpy.
 | [Gradient Descent from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | Implementing gradient descent for linear regression from scratch. |
