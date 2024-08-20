@@ -5,6 +5,7 @@
 # **My Projects**
 | MACHINE & DEEP LEARNING ||
 |---------|---------|
+| [Valorant Match Prediction](https://github.com/ianjure/valorant-match-prediction) | Predicting Valorant match winner using machine learning.
 | [Titanic Survivor Prediction](https://github.com/ianjure/titanic-survivor-prediction) | Predicting Titanic passengers survival using machine learning.
 | [Credit Card Fraud Detection](https://github.com/ianjure/credit-card-fraud-detection) | Detecting fraudulent credit card transactions using machine learning.
 | [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | Implementing a simple neural network using only Numpy.
@@ -14,6 +15,7 @@
 |   DATA VISUALIZATION   ||
 |---------|---------|
 | [Average Precipitation Map](https://github.com/ianjure/average-precipitation-map) | A 3D data visualization of average precipitation using R. |
+| [Martial Law in Data](https://github.com/ianjure/martial-law-in-data) | A data visualization about how martial law shaped the Philippine economy.
 | [SimpleCorr](https://github.com/ianjure/simple-corr) | A simple data correlation visualizer in Streamlit. |
 
 | COMPUTER VISION ||
