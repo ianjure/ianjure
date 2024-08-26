@@ -23,7 +23,7 @@
 | [Blackjack Card Counter](https://github.com/ianjure/blackjack-card-counter) | A model made to beat blackjack using computer vision. |
 | [Rock Paper Scissor Game](https://github.com/ianjure/rock-paper-scissor-opencv) | Play against a computer in a rock-paper-scissor game using computer vision. |
 | [Virtual Mouse](https://github.com/ianjure/virtual-mouse-opencv) | Hand tracking virtual mouse using computer vision. |
-| [YOLOv5s Object Detection Web Application](https://github.com/ianjure/yolov5s-object-detection) | A simple object detection web application using YOLOV5s. |
+| [YOLOv5s Object Detection](https://github.com/ianjure/yolov5s-object-detection) | A simple object detection web application using YOLOV5s. |
 
 |  PYTHON PACKAGE  ||
 |---------|---------|
