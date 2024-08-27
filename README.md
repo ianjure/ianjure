@@ -4,7 +4,7 @@
 
 # **My Projects**
 | MACHINE & DEEP LEARNING ||
-|---------|---------|
+|---------|--------|
 | [Stock Market Trend Prediction](https://github.com/ianjure/stock-market-trend-prediction) | Predicting stock market trend using machine learning.
 | [Valorant Match Prediction](https://github.com/ianjure/valorant-match-prediction) | Predicting Valorant game winner using machine learning.
 | [Titanic Survivor Prediction](https://github.com/ianjure/titanic-survivor-prediction) | Predicting Titanic passengers survival using machine learning.
@@ -12,31 +12,24 @@
 | [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | Implementing a simple neural network using only Numpy.
 | [Gradient Descent from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | Implementing gradient descent for linear regression from scratch. |
 | [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A simple Chrome extension that analyzes YouTube video comments using sentiment analysis. |
-
-|   DATA VISUALIZATION   ||
-|---------|---------|
+| | |
+| <p align="center">**DATA VISUALIZATION**</p> |
 | [Average Precipitation Map](https://github.com/ianjure/average-precipitation-map) | A 3D data visualization of average precipitation using R. |
 | [Martial Law in Data](https://github.com/ianjure/martial-law-in-data) | A data visualization about how martial law shaped the Philippine economy.
 | [SimpleCorr](https://github.com/ianjure/simple-corr) | A simple data correlation visualizer in Streamlit. |
-
-| COMPUTER VISION ||
-|---------|--------|
+| | |
+| <p align="center">**COMPUTER VISION**</p> |
 | [Blackjack Card Counter](https://github.com/ianjure/blackjack-card-counter) | A computer vision model made to beat blackjack. |
 | [Rock-Paper-Scissors Game](https://github.com/ianjure/rock-paper-scissors-opencv) | Play against a computer in a rock-paper-scissors game using computer vision. |
 | [Virtual Mouse](https://github.com/ianjure/virtual-mouse-opencv) | Hand-tracking virtual mouse using computer vision. |
 | [YOLOv5s Object Detection](https://github.com/ianjure/yolov5s-object-detection) | A simple object detection web application using YOLOV5s. |
-
-|  PYTHON PACKAGE  ||
-|---------|---------|
+| | |
+| <p align="center">**PACKAGE & PLUGINS**</p> |
 | [Fancytest](https://github.com/ianjure/fancytest) | A Python package that tests function call instances using a simple decorator. |
-
-| FIGMA PLUGIN ||
-|-------|-------|
 | [RealWeather Plugin](https://github.com/ianjure/realweather-plugin) | A Figma plugin for getting real-time weather data. |
 | [IconGrid Plugin](https://github.com/ianjure/icongrid-plugin) | A Figma plugin for generating icon grids. |
-
-|  OTHER  ||
-|--------|-------|
+| | |
+| <p align="center">**OTHER PROJECTS**</p> |
 | [Daily Top Stock](https://github.com/ianjure/daily-top-stock) | A Twitter bot that posts daily top performing S&P 500 stocks. |
 | [YouTube Video Downloader](https://github.com/ianjure/youtube-video-downloader) | A simple YouTube video downloader made using Flask and Pytube. |
 | [YouTube Video Analyzer API](https://github.com/ianjure/youtube-video-analyzer-api) | A simple Flask API for the YouTube video analyzer Chrome extension. |
