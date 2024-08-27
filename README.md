@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ian Jure Macalisang</h1>
+<h1 align="center">👋 Hi, I'm Ian Jure</h1>
 <h3 align="center">
 <code style="color:darkorange">I’m a Python developer and aspiring data scientist.</code>
 </h3>
