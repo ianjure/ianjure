@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hi!%20I'm%20Ian%20Jure&desc=Python%20Developer%20-%20Data%20Scientist&descAlignY=52&animation=fadeIn&fontColor=FFFFFF&fontAlignY=32&section=header&fontSize=65&descSize=20"/>
 </p>
 
-# **My Projects**
+<h1 align="left">My Projects</h1>
+
 | MACHINE & DEEP LEARNING ||
 |---------|--------|
 | [Markov Trading Simulation](https://github.com/ianjure/markov-trading-simulation) | Simulating a Markovian trading strategy using machine learning.
@@ -40,14 +41,29 @@
 | [Matrix Encryption](https://github.com/ianjure/matrix-encryption) | A simple web application for encrypting and decrypting messages using matrix multiplication. |
 | [Mini Python Scripts](https://github.com/ianjure/mini-scripts) | Short Python scripts that I made for automation and other stuffs.
 
-# **My Kit**
-| PYTHON | JAVA | JAVASCRIPT | R |
-|:------:|:------:|:------:|:------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55" height="55"/> |
+<h1 align="left">My Kit</h1>
 
-| STREAMLIT | NUMPY | PANDAS | OPENCV | PYTORCH | TENSORFLOW | SKLEARN | MATPLOTLIB |
-|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/>
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/>
+</p>
 
-# **My Stats**
-[![ianjure's GitHub | Stats](https://stats.quira.sh/ianjure/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ianjure)
+<h1 align="left">My Stats</h1>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ianjure&theme=transparent&hide_border=true&hide_title=true&rank_icon=github&hide=issues,contribs&card_width=400&line_height=30"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianjure&theme=transparent&hide_border=true&hide_title=true&layout=compact&card_width=400"/>
+</p>
