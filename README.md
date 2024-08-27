@@ -5,6 +5,7 @@
 # **My Projects**
 | MACHINE & DEEP LEARNING ||
 |---------|--------|
+| [Markov Trading Simulation](https://github.com/ianjure/markov-trading-simulation) | Simulating a Markovian trading strategy using machine learning.
 | [Stock Market Trend Prediction](https://github.com/ianjure/stock-market-trend-prediction) | Predicting stock market trend using machine learning.
 | [Valorant Match Prediction](https://github.com/ianjure/valorant-match-prediction) | Predicting Valorant game winner using machine learning.
 | [Titanic Survivor Prediction](https://github.com/ianjure/titanic-survivor-prediction) | Predicting Titanic passengers survival using machine learning.
