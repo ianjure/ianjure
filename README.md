@@ -1,6 +1,7 @@
-👋 Hi, I’m Ian! I’m a Python developer and aspiring data scientist.
-
-🔍 I’m interested in finance, technology, data, and minimalism.
+<h1 align="center">Hi 👋, I'm Ian Jure Macalisang</h1>
+<h3 align="center">
+<code style="color:darkorange">I’m a Python developer and aspiring data scientist.</code>
+</h3>
 
 # **My Projects**
 | MACHINE & DEEP LEARNING ||
@@ -54,3 +55,6 @@
 | STREAMLIT | NUMPY | PANDAS | OPENCV | PYTORCH | TENSORFLOW | SKLEARN | MATPLOTLIB |
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/>
+
+# **My Stats**
+[![ianjure's GitHub | Stats](https://stats.quira.sh/ianjure/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ianjure)
