@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20Ian%20Jure&desc=Python%20Developer%20-%20Data%20Scientist&descAlignY=52&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Ian Jure</h1>
-<h3 align="center">
-<code style="color:darkorange">I’m a Python developer and aspiring data scientist.</code>
-</h3>
-
 # **My Projects**
 | MACHINE & DEEP LEARNING ||
 |---------|---------|
@@ -62,3 +57,8 @@
 
 # **My Stats**
 [![ianjure's GitHub | Stats](https://stats.quira.sh/ianjure/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ianjure)
+
+<h1 align="center">👋 Hi, I'm Ian Jure</h1>
+<h3 align="center">
+<code style="color:darkorange">Python Developer & Data Scientist</code>
+</h3>
