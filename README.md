@@ -44,7 +44,7 @@
 <h1 align="left">My Kit</h1>
 
 <p align="left">
-<img href="https://www.python.org/" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/>
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
