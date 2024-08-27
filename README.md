@@ -5,7 +5,7 @@
 # **My Projects**
 | MACHINE & DEEP LEARNING ||
 |---------|--------|
-| [Stock Market Trend Prediction](https://github.com/ianjure/stock-market-trend-prediction) | Predicting stock market trend using machine learning.
+| [Stock Trend Prediction](https://github.com/ianjure/stock-trend-prediction) | Predicting stock trend using machine learning.
 | [Valorant Match Prediction](https://github.com/ianjure/valorant-match-prediction) | Predicting Valorant game winner using machine learning.
 | [Titanic Survivor Prediction](https://github.com/ianjure/titanic-survivor-prediction) | Predicting Titanic passengers survival using machine learning.
 | [Credit Card Fraud Detection](https://github.com/ianjure/credit-card-fraud-detection) | Detecting fraudulent credit card transactions using machine learning.
