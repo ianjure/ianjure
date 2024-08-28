@@ -13,7 +13,7 @@
 | [Credit Card Fraud Detection](https://github.com/ianjure/credit-card-fraud-detection) | Detecting fraudulent credit card transactions using machine learning.
 | [Neural Network using Numpy](https://github.com/ianjure/simple-neural-network) | Implementing a simple neural network using only Numpy.
 | [Gradient Descent from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | Implementing gradient descent for linear regression from scratch.
-| [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A Chrome extension that analyzes YouTube video comments using sentiment analysis.
+| [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A Chrome extension that analyzes YouTube video comments through sentiment analysis.
 | | |
 | <p align="center">**DATA VISUALIZATION**</p> |
 | [Average Precipitation Map](https://github.com/ianjure/average-precipitation-map) | A 3D data visualization of average precipitation using R.
