@@ -15,7 +15,7 @@
 | [Gradient Descent from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | Implementing gradient descent for linear regression from scratch.
 | [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A Chrome extension that analyzes YouTube video comments through sentiment analysis.
 | | |
-| <p align="center">**DATA VISUALIZATION**</p> |
+| <p align="center">**DATA SCIENCE**</p> |
 | [Average Precipitation Map](https://github.com/ianjure/average-precipitation-map) | A 3D data visualization of average precipitation using R.
 | [Martial Law in Data](https://github.com/ianjure/martial-law-in-data) | A data visualization showing how martial law shaped the Philippine economy.
 | [SimpleCorr](https://github.com/ianjure/simple-corr) | A simple data correlation visualizer built in Streamlit.
