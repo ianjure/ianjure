@@ -52,6 +52,7 @@
 <a href="https://www.kaggle.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" height="55"/></a>
 <a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/></a>
 <a href="https://streamlit.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"/></a>
+<a href=https://flask.palletsprojects.com/en/3.0.x/><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"/></a>
 <a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"/></a>
 <a href="https://opencv.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"/></a>
