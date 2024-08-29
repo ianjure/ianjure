@@ -60,6 +60,7 @@
 <a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/></a>
 <a href="https://scikit-learn.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/></a>
 <a href="https://matplotlib.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/></a>
+<a href="https://matplotlib.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/></a>
 </p>
 
 <h1 align="left">My Stats</h1>
