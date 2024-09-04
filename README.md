@@ -20,7 +20,7 @@
 | [SimpleCorr](https://github.com/ianjure/simple-corr) | A simple data correlation visualizer built in Streamlit.
 | | |
 | <p align="center">**ALGORITHMIC TRADING**</p> |
-| [Markov Chain](https://github.com/ianjure/markov-chain-trading) | A trading algorithm based on Markov probability theory.
+| [Markov Chain Trading](https://github.com/ianjure/markov-chain-trading) | A trading algorithm based on Markov probability theory.
 | [Tradestrats](https://github.com/ianjure/trade-strats) | A platform for testing trading algorithms, built with Streamlit.
 | | |
 | <p align="center">**COMPUTER VISION**</p> |
