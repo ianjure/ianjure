@@ -6,7 +6,6 @@
 
 | MACHINE & DEEP LEARNING ||
 |---------|--------|
-| [Markov Trading Simulation](https://github.com/ianjure/markov-trading-simulation) | Simulating a Markovian trading strategy using machine learning.
 | [Stock Market Trend Forecast](https://github.com/ianjure/stock-market-trend-forecast) | Forecasting stock market trends using machine learning.
 | [Valorant Match Prediction](https://github.com/ianjure/valorant-match-prediction) | Predicting Valorant game winners using machine learning.
 | [Titanic Survivor Prediction](https://github.com/ianjure/titanic-survivor-prediction) | Predicting Titanic passengers' survival using machine learning.
@@ -19,6 +18,9 @@
 | [Average Precipitation Map](https://github.com/ianjure/average-precipitation-map) | A 3D data visualization of average precipitation using R.
 | [Martial Law in Data](https://github.com/ianjure/martial-law-in-data) | A data visualization showing how martial law shaped the Philippine economy.
 | [SimpleCorr](https://github.com/ianjure/simple-corr) | A simple data correlation visualizer built in Streamlit.
+| | |
+| <p align="center">**ALGORITHMIC TRADING**</p> |
+| [Markov Chain Algorithm](https://github.com/ianjure/markov-chain-trading) | A trading algorithm based on Markov probability theory.
 | | |
 | <p align="center">**COMPUTER VISION**</p> |
 | [Blackjack Card Counter](https://github.com/ianjure/blackjack-card-counter) | A computer vision model designed to beat blackjack.
