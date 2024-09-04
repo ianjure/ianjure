@@ -15,6 +15,7 @@
 | [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A Chrome extension that analyzes YouTube video comments through sentiment analysis.
 | | |
 | <p align="center">**DATA SCIENCE**</p> |
+| [Singapore Regions Map](https://github.com/ianjure/singapore-regions-map) | A simple data visualization of Singapore's regions using QGIS.
 | [Average Precipitation Map](https://github.com/ianjure/average-precipitation-map) | A 3D data visualization of average precipitation using R.
 | [Martial Law in Data](https://github.com/ianjure/martial-law-in-data) | A data visualization showing how martial law shaped the Philippine economy.
 | [SimpleCorr](https://github.com/ianjure/simple-corr) | A simple data correlation visualizer built in Streamlit.
@@ -66,7 +67,7 @@
 <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/></a>
 <a href="https://streamlit.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"/></a>
 <a href=https://flask.palletsprojects.com/en/3.0.x/><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"/></a>
-<a href=https://flask.palletsprojects.com/en/3.0.x/><img src="https://github.com/ianjure/ds-assets/blob/main/QGIS-original.svg" width="55" height="55"/></a>
+<a href=https://www.qgis.org/><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="55" height="55"/></a>
 </p>
 
 <h1 align="left">My Stats</h1>
