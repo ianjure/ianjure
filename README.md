@@ -21,7 +21,7 @@
 | | |
 | <p align="center">**ALGORITHMIC TRADING**</p> |
 | [Markov Chain](https://github.com/ianjure/markov-chain-trading) | A trading algorithm based on Markov probability theory.
-| [TradeStrats](https://github.com/ianjure/trade-strats) | A platform for testing trading algorithms, built with Streamlit.
+| [Tradestrats](https://github.com/ianjure/trade-strats) | A platform for testing trading algorithms, built with Streamlit.
 | | |
 | <p align="center">**COMPUTER VISION**</p> |
 | [Blackjack Card Counter](https://github.com/ianjure/blackjack-card-counter) | A computer vision model designed to beat blackjack.
