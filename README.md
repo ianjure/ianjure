@@ -20,7 +20,7 @@
 | [SimpleCorr](https://github.com/ianjure/simple-corr) | A simple data correlation visualizer built in Streamlit.
 | | |
 | <p align="center">**ALGORITHMIC TRADING**</p> |
-| [Markov Chain Algorithm](https://github.com/ianjure/markov-chain-trading) | A trading algorithm based on Markov probability theory.
+| [Markov Chain](https://github.com/ianjure/markov-chain-trading) | A trading algorithm based on Markov probability theory.
 | | |
 | <p align="center">**COMPUTER VISION**</p> |
 | [Blackjack Card Counter](https://github.com/ianjure/blackjack-card-counter) | A computer vision model designed to beat blackjack.
