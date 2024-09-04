@@ -39,7 +39,7 @@
 | [YouTube Video Downloader](https://github.com/ianjure/youtube-video-downloader) | A simple YouTube video downloader made with Flask and Pytube.
 | [YouTube Video Analyzer API](https://github.com/ianjure/youtube-video-analyzer-api) | A simple Flask API for the YouTube video analyzer Chrome extension.
 | [Hotel Reservation System](https://github.com/ianjure/hotel-reservation-system) | A hotel reservation system built in Java.
-| [Weather Checker Web Application](https://github.com/ianjure/weather-checker) | A web application for checking weather using Streamlit, OpenWeather API, and Windy.
+| [Weather Checker](https://github.com/ianjure/weather-checker) | A web application for checking weather using Streamlit, OpenWeather API, and Windy.
 | [Flask Website with Authentication](https://github.com/ianjure/flask-with-authentication) | A simple Flask website with user authentication.
 | [Matrix Encryption](https://github.com/ianjure/matrix-encryption) | A web application for encrypting and decrypting messages using matrix multiplication.
 | [Mini Python Scripts](https://github.com/ianjure/mini-scripts) | Short Python scripts created for automation and other tasks.
