@@ -25,7 +25,7 @@
 | <p align="center">**ALGORITHMIC TRADING**</p> |
 | [Mean Reversion Trading](https://github.com/ianjure/mean-reversion-trading) | A trading algorithm based on a popular financial theory.
 | [Markov Chain Trading](https://github.com/ianjure/markov-chain-trading) | A trading algorithm based on Markov probability theory.
-| [TradeStrats: Backtesting Platform](https://github.com/ianjure/trade-strats) | A platform for testing trading algorithms, built with Streamlit.
+| [TradeStrats: Backtesting Tool](https://github.com/ianjure/trade-strats) | A platform for testing trading algorithms, built with Streamlit.
 | | |
 | <p align="center">**COMPUTER VISION**</p> |
 | [Blackjack Card Counter](https://github.com/ianjure/blackjack-card-counter) | A computer vision model designed to beat blackjack.
