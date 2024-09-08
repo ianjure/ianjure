@@ -6,7 +6,7 @@
 
 | MACHINE & DEEP LEARNING ||
 |---------|--------|
-| [MovieGeek: Movie Idea Generator](https://github.com/ianjure/movie-geek) | An AI-powered movie idea generator built with LangChain.
+| [MovieGeek: Movie Generator](https://github.com/ianjure/movie-geek) | An AI-powered movie idea generator built with LangChain.
 | [Emigo: AI Study Buddy](https://github.com/ianjure/emigo-llm) | An AI-powered movie study buddy built with LangChain.
 | [Stock Market Trend Forecast](https://github.com/ianjure/stock-market-trend-forecast) | Forecasting stock market trends using machine learning.
 | [Valorant Match Prediction](https://github.com/ianjure/valorant-match-prediction) | Predicting Valorant game winners using machine learning.
@@ -25,7 +25,7 @@
 | <p align="center">**ALGORITHMIC TRADING**</p> |
 | [Mean Reversion Trading](https://github.com/ianjure/mean-reversion-trading) | A trading algorithm based on a popular financial theory.
 | [Markov Chain Trading](https://github.com/ianjure/markov-chain-trading) | A trading algorithm based on Markov probability theory.
-| [Trade Strats](https://github.com/ianjure/trade-strats) | A platform for testing trading algorithms, built with Streamlit.
+| [Trade Strats: Algotrading Platform](https://github.com/ianjure/trade-strats) | A platform for testing trading algorithms, built with Streamlit.
 | | |
 | <p align="center">**COMPUTER VISION**</p> |
 | [Blackjack Card Counter](https://github.com/ianjure/blackjack-card-counter) | A computer vision model designed to beat blackjack.
