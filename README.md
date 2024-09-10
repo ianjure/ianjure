@@ -7,7 +7,7 @@
 | MACHINE & DEEP LEARNING ||
 |---------|--------|
 | [MovieGeek: Movie Generator](https://github.com/ianjure/movie-geek) | A movie idea generator built with LangChain.
-| [Emigo: AI Study Buddy](https://github.com/ianjure/emigo-llm) | An AI-powered movie study buddy built with LangChain.
+| [Emigo: AI Study Buddy](https://github.com/ianjure/emigo-llm) | A study buddy powered by AI.
 | [Stock Market Trend Forecast](https://github.com/ianjure/stock-market-trend-forecast) | Forecasting stock market trends using machine learning.
 | [Valorant Match Prediction](https://github.com/ianjure/valorant-match-prediction) | Predicting Valorant game winners using machine learning.
 | [Titanic Survivor Prediction](https://github.com/ianjure/titanic-survivor-prediction) | Predicting Titanic passengers' survival using machine learning.
