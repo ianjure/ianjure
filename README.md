@@ -18,6 +18,7 @@
 | | |
 | <p align="center">**DATA SCIENCE**</p> |
 | [Walkability and Safety Index](https://github.com/ianjure/project-walkable) | A project proposal for PJDSC 2024 on urban mobility.
+| [New York City Map](https://github.com/ianjure/nyc-map) | A land use and land cover map of New York City using QGIS.
 | [Singapore Regions Map](https://github.com/ianjure/singapore-regions-map) | A simple data visualization of Singapore's regions using QGIS.
 | [Average Precipitation Map](https://github.com/ianjure/average-precipitation-map) | A 3D data visualization of average precipitation using R.
 | [Martial Law in Data](https://github.com/ianjure/martial-law-in-data) | A data visualization showing how martial law shaped the Philippine economy.
