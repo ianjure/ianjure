@@ -6,7 +6,7 @@
 
 | MACHINE & DEEP LEARNING ||
 |---------|--------|
-| [Yeast AI](https://github.com/ianjure/yeast-ai) | An AI tool for local micro bakeries in the Philippines (BPI Datawave 2024).
+| [Yeast AI](https://github.com/ianjure/yeast-ai) | An AI tool for local micro bakeries in the Philippines (BPI DATA Wave 2024).
 | [MovieGeek: Movie Generator](https://github.com/ianjure/movie-geek) | A movie idea generator built with LangChain.
 | [Emigo: AI Study Buddy](https://github.com/ianjure/emigo-chat) | Chat with a study buddy powered by AI.
 | [Stock Market Trend Forecast](https://github.com/ianjure/stock-market-trend-forecast) | Forecasting stock market trends using machine learning.
