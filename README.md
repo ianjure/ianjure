@@ -6,9 +6,6 @@
 
 | MACHINE & DEEP LEARNING ||
 |---------|--------|
-| [Yeast AI](https://github.com/ianjure/yeast-ai) | An AI tool for local micro bakeries in the Philippines (BPI DATA Wave 2024).
-| [MovieGeek](https://github.com/ianjure/movie-geek) | A movie idea generator built with LangChain.
-| [Emigo](https://github.com/ianjure/emigo-chat) | Chat with a study buddy powered by AI.
 | [Stock Market Trend Forecast](https://github.com/ianjure/stock-market-trend-forecast) | Forecasting stock market trends using machine learning.
 | [Valorant Match Prediction](https://github.com/ianjure/valorant-match-prediction) | Predicting Valorant game winners using machine learning.
 | [Titanic Survivor Prediction](https://github.com/ianjure/titanic-survivor-prediction) | Predicting Titanic passengers' survival using machine learning.
@@ -17,7 +14,13 @@
 | [Gradient Descent from Scratch](https://github.com/ianjure/gradient-descent-for-linear-regression) | Implementing gradient descent for linear regression from scratch.
 | [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A Chrome extension that analyzes YouTube video comments through sentiment analysis.
 | | |
-| <p align="center">**DATA SCIENCE**</p> |
+| <p align="center">**GENERATIVE AI**</p> |
+| [ChatGPT Clone](https://github.com/ianjure/chatgpt-clone) | A ChatGPT clone with summarization option.
+| [Yeast AI](https://github.com/ianjure/yeast-ai) | An AI tool for local micro bakeries in the Philippines (BPI DATA Wave 2024).
+| [MovieGeek](https://github.com/ianjure/movie-geek) | A movie idea generator built with LangChain.
+| [Emigo](https://github.com/ianjure/emigo-chat) | Chat with a study buddy powered by AI.
+| | |
+| <p align="center">**ANALYSIS & VISUALIZATION**</p> |
 | [Walkability and Safety Index](https://github.com/ianjure/project-walkable) | A project proposal for PJDSC 2024 on urban mobility.
 | [New York City Map](https://github.com/ianjure/nyc-map) | A land use and land cover map of New York City using QGIS.
 | [Singapore Regions Map](https://github.com/ianjure/singapore-regions-map) | A simple data visualization of Singapore's regions using QGIS.
