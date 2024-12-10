@@ -78,7 +78,8 @@
 <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/></a>
 <a href="https://streamlit.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"/></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"/></a>
-<a href="https://www.qgis.org/"><img src="" width="55" height="55"/></a>
+<a href="https://www.qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="55" height="55"/></a>
+<a href="https://www.langchain.com/"><img src="" width="55" height="55"/></a>
 <a href="https://huggingface.co/"><img src="" width="55" height="55"/></a>
 </p>
 
