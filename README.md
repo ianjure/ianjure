@@ -16,8 +16,8 @@
 | [YouTube Video Analyzer](https://github.com/ianjure/youtube-video-analyzer) | A Chrome extension that analyzes YouTube video comments through sentiment analysis.
 | | |
 | <p align="center">**GENERATIVE AI**</p> |
-| [WorkFit AI](https://github.com/ianjure/workfit) | An HR resume screening assistance tool powered by AI.
-| [Shakespeare AI](https://github.com/ianjure/shakespeare) | An AI scriptwriting tool for YouTubers.
+| [WorkFit AI](https://github.com/ianjure/workfit) | An HR resume screening assistance tool.
+| [Shakespeare](https://github.com/ianjure/shakespeare) | An AI scriptwriting tool for YouTubers.
 | [ChatGPT Clone](https://github.com/ianjure/chatgpt-clone) | A ChatGPT clone with summarization option.
 | [Yeast AI](https://github.com/ianjure/yeast-ai) | An AI tool for local micro bakeries in the Philippines (BPI DATA Wave 2024).
 | [MovieGeek](https://github.com/ianjure/movie-geek) | A movie idea generator built with LangChain.
