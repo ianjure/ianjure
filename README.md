@@ -6,6 +6,7 @@
 
 | MACHINE & DEEP LEARNING ||
 |---------|--------|
+| [ESRGAN: Image Upscaler](https://github.com/ianjure/ESRGAN-image-upscaler) | An image upscaler using Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN).
 | [Nexbit: Crypto Dashboard](https://github.com/ianjure/nexbit) | A cryptocurrency analytics and forecasting dashboard powered by news sentiment.
 | [Stock Market Trend Forecast](https://github.com/ianjure/stock-market-trend-forecast) | Forecasting stock market trends using machine learning.
 | [Valorant Match Prediction](https://github.com/ianjure/valorant-match-prediction) | Predicting Valorant game winners using machine learning.
