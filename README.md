@@ -77,12 +77,16 @@
 <a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/></a>
 <a href="https://scikit-learn.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/></a>
 <a href="https://matplotlib.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/></a>
+<a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/></a>
 <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/></a>
 <a href="https://share.streamlit.io/user/ianjure"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"/></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"/></a>
 <a href="https://www.qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="55" height="55"/></a>
 <a href="https://www.langchain.com/"><img src="https://github.com/ianjure/ianjure/blob/main/langchain.svg" width="55" height="55"/></a>
 <a href="https://huggingface.co/ianjure"><img src="https://github.com/ianjure/ianjure/blob/main/huggingface.svg" width="55" height="55"/></a>
+<a href="https://www.sqlite.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="55" height="55"/></a>
+<a href="https://supabase.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="55" height="55"/></a>
+<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="55" height="55"/></a>
 </p>
 
 <h1 align="left">My Stats</h1>
