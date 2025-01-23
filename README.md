@@ -87,6 +87,10 @@
 <a href="https://www.sqlite.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="55" height="55"/></a>
 <a href="https://supabase.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="55" height="55"/></a>
 <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="55" height="55"/></a>
+<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/></a>
+<a href="https://www.expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55"/></a>
+<a href="https://www.react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/></a>
+<a href="https://www.nodejs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/></a> 
 </p>
 
 <h1 align="left">My Stats</h1>
