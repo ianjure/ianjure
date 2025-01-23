@@ -49,6 +49,7 @@
 | [IconGrid Plugin](https://github.com/ianjure/icongrid-plugin) | A Figma plugin for generating icon grids.
 | | |
 | <p align="center">**OTHER PROJECTS**</p> |
+| [Basic MERN App](https://github.com/ianjure/MERN-basic-app) | A basic MERN stack web application.
 | [Daily Top Stock](https://github.com/ianjure/daily-top-stock) | A Twitter bot that posts daily top-performing S&P 500 stocks.
 | [YouTube Video Downloader](https://github.com/ianjure/youtube-video-downloader) | A simple YouTube video downloader made with Flask and Pytube.
 | [YouTube Video Analyzer API](https://github.com/ianjure/youtube-video-analyzer-api) | A simple Flask API for the YouTube video analyzer Chrome extension.
