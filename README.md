@@ -52,7 +52,7 @@
 | [Basic MERN App](https://github.com/ianjure/MERN-basic-app) | A basic MERN stack web application.
 | [Daily Top Stock](https://github.com/ianjure/daily-top-stock) | A Twitter bot that posts daily top-performing S&P 500 stocks.
 | [YouTube Video Downloader](https://github.com/ianjure/youtube-video-downloader) | A simple YouTube video downloader made with Flask and Pytube.
-| [YouTube Video Analyzer API](https://github.com/ianjure/youtube-video-analyzer-api) | A simple Flask API for the YouTube video analyzer Chrome extension.
+| [YouTube Video Analyzer API](https://github.com/ianjure/youtube-video-analyzer-api) | A Flask API implementation for the YouTube video analyzer Chrome extension.
 | [Hotel Reservation System](https://github.com/ianjure/hotel-reservation-system) | A hotel reservation system built in Java.
 | [Weather Checker](https://github.com/ianjure/weather-checker) | A web application for checking weather using Streamlit, OpenWeather API, and Windy.
 | [Flask with Authentication](https://github.com/ianjure/flask-with-authentication) | A simple Flask website with user authentication.
