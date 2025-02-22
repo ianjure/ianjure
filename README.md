@@ -49,7 +49,7 @@
 | [IconGrid Plugin](https://github.com/ianjure/icongrid-plugin) | A Figma plugin for generating icon grids.
 | | |
 | <p align="center">**OTHER PROJECTS**</p> |
-| [Simple To-Do App](https://github.com/ianjure/todo-app) | A simple to-do app using express JS.
+| [Simple To-do App](https://github.com/ianjure/todo-app) | A simple to-do app using express JS.
 | [Basic FastAPI Demo](https://github.com/ianjure/fastAPI-demo) | A basic FastAPI implementation and Render deployment.
 | [Basic MERN App](https://github.com/ianjure/MERN-basic-app) | A basic MERN stack web application.
 | [Daily Top Stock](https://github.com/ianjure/daily-top-stock) | A Twitter bot that posts daily top-performing S&P 500 stocks.
