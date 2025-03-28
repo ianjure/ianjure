@@ -59,6 +59,8 @@
 
 <h1 align="left">My Kit</h1>
 
+| LANGUAGE | MACHINE & DEEP LEARNING |
+| <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/></a><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/></a> | A competitive workflow platform that boosts productivity through global ranking.
 <p align="left">
 <h5 align="left">Language</h5>
 <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/></a>
