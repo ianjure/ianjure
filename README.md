@@ -62,11 +62,9 @@
 <p align="left">
 <h5 align="left">Language</h5>
 <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/></a>
-<a href="https://www.r-project.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="55" height="55"/></a>
-<a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/></a>
 
-<h5 align="left">Design and Visualizations</h5>
+<h5 align="left">Design and Visualization</h5>
 <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="55" height="55"/></a>
 <a href="https://www.qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="55" height="55"/></a>
 
@@ -82,9 +80,7 @@
 <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/></a>
 <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/></a>
 
-<h5 align="left">Web Development</h5>
-<a href="https://share.streamlit.io/user/ianjure"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"/></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"/></a>
+<h5 align="left">Backend</h5>
 <a href="https://www.expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55"/></a>
 <a href="https://www.nodejs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/></a>
 
@@ -92,8 +88,8 @@
 <a href="https://supabase.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="55" height="55"/></a>
 <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/></a>
 </p>
-<h1 align="left">My Stats</h1>
 
+<h1 align="left">My Stats</h1>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ianjure&theme=transparent&hide_border=true&hide_title=true&rank_icon=github&hide=issues,contribs&card_width=400&line_height=30"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianjure&theme=transparent&hide_border=true&hide_title=true&layout=compact&card_width=400"/>
