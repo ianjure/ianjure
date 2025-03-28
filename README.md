@@ -58,41 +58,12 @@
 | [Mini Python Scripts](https://github.com/ianjure/mini-scripts) | Short Python scripts created for automation and other tasks.
 
 <h1 align="left">My Kit</h1>
-
-| LANGUAGE | MACHINE & DEEP LEARNING |
-| <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/></a><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/></a> | A competitive workflow platform that boosts productivity through global ranking.
-<p align="left">
-<h5 align="left">Language</h5>
-<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/></a>
-
-<h5 align="left">Design and Visualization</h5>
-<a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="55" height="55"/></a>
-<a href="https://www.qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="55" height="55"/></a>
-
-<h5 align="left">Machine and Deep Learning</h5>
-<a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"/></a>
-<a href="https://pytorch.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/></a>
-<a href="https://scikit-learn.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/></a>
-<a href="https://www.langchain.com/"><img src="https://github.com/ianjure/ianjure/blob/main/langchain.svg" width="55" height="55"/></a>
-
-<h5 align="left">Version Control</h5>
-<a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/></a>
-<a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/></a>
-
-<h5 align="left">Backend</h5>
-<a href="https://www.expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55"/></a>
-<a href="https://www.nodejs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/></a>
-
-<h5 align="left">Database</h5>
-<a href="https://supabase.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="55" height="55"/></a>
-<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/></a>
-</p>
+<div align="center">
+  <img src="https://github.com/ianjure/ianjure/blob/main/tech-stack.svg" width="800"/>
+</div>
 
 <h1 align="left">My Stats</h1>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ianjure&theme=transparent&hide_border=true&hide_title=true&rank_icon=github&hide=issues,contribs&card_width=400&line_height=30"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianjure&theme=transparent&hide_border=true&hide_title=true&layout=compact&card_width=400"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ianjure&theme=transparent&hide_border=true&hide_title=true&rank_icon=github&hide=issues,contribs&card_width=400&line_height=30"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianjure&theme=transparent&hide_border=true&hide_title=true&layout=compact&card_width=400"/>
+</div>
